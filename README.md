@@ -6,11 +6,10 @@ A computing project which is used to sort grades using databases (phpMyAdmin and
 
 Contains:
 	
-	
-	
+
 	Code
   
   
    
-  Document with psuedocode, planning, testing, statistics and more
+  	Document with psuedocode, planning, testing, statistics and more
 
