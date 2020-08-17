@@ -1,5 +1,5 @@
 # projectwork1
-A computing project which is used to sort grades using databases (phpMyAdmin and SQL Server management studio)
+A computing project which is used to allows one to sort and grades using databases (namely phpMyAdmin and SQL Server management studio)
 
 Coded in C#
 
