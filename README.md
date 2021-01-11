@@ -1,4 +1,4 @@
-# projectwork1
+# C Sharp Grade Book Database manager with Login
 A computing project which is used to allows one to sort and grades using databases (namely phpMyAdmin and SQL Server management studio)
 
 Coded in C# with the VB IDE.
