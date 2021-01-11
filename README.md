@@ -10,9 +10,7 @@ Made with C#.
 Contains:
 	
 
-	Code
-  
-  
+	Code    
    
   	Document with psuedocode, planning, testing, statistics and more
 
