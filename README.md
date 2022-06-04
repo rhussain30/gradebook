@@ -1,8 +1,5 @@
 # C Sharp Grade Book
-A computing project which is used to allows one to sort and grades using databases (namely phpMyAdmin and SQL Server Management Studio).
-Allows multiple accounts with different priorities; teachers may only edit or delete grades, while students may only add grades.
-
-Made with C#.
+Created and maintained in C# a gradebook using phpMyAdmin and SSMS. Allows multiple accounts with different privileges; teachers may only edit or delete grades, while students may only append grades.
 
 
 
